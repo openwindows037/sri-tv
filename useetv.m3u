@@ -1,0 +1,515 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://spng.subpng.com/20180714/hww/kisspng-exit-sign-computer-icons-emergency-exit-exit-png-5b49cb48092969.5990852215315628240375.jpg" group-title="Local Channel",EXIT
+rtp://@239.123.123.123:0123
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307990510.png" group-title="Local", 80 Ruang Trampil 
+rtp://239.1.1.126:8730
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1603816511391.png" group-title="Local", 87 Sea Today
+rtp://239.1.2.68:8384
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309907162.png" group-title="Local", 88 Usee Prime
+rtp://239.1.1.216:9270
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309835005.png" group-title="Local", 89 Usee Photo
+rtp://239.1.1.251:9498
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1600833696268.png" group-title="Local", 99 Indihome Shopping
+rtp://239.1.2.98:9514
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309571114.png" group-title="Local", 100 TVRI
+rtp://239.1.1.37:8196
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311645075.png" group-title="Local", 101 Metro TV
+rtp://239.1.1.19:8088
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306045465.png" group-title="Local", 102 CNN Indonesia
+rtp://239.1.1.241:9362
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309083718.png" group-title="Local", 103 TVOne
+rtp://239.1.1.31:8160
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308627140.png" group-title="Local", 104 Trans V
+rtp://239.1.1.27:8136
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308788820.png" group-title="Local", 105 Trans7
+rtp://239.1.1.29:8148
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308100089.png" group-title="Local", 107 SCTV
+rtp://239.1.1.21:8100
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304064348.png" group-title="Local", 108 ANTV
+rtp://239.1.1.15:8064
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311176344.png" group-title="Local", 109 Indosiar
+rtp://239.1.1.17:8076
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1607004286365.jpg" group-title="Local", 110 MShop Signature
+rtp://239.1.1.36:8190
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1636647775265.jpg" group-title="Local", 111 B TV
+rtp://239.1.1.12:7984
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581313978213.png" group-title="Local", 112 NET.
+rtp://239.1.1.119:8688
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311534004.png" group-title="Local", 114 Kompas TV
+rtp://239.1.1.197:9156
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304397900.png" group-title="Local", 115 Berita Satu
+rtp://239.1.1.183:9072
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311336825.png" group-title="Local", 116 JakTV
+rtp://239.1.1.107:8616
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307963468.png" group-title="Local", 118 RTV
+rtp://239.1.1.69:8388
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1584461741167.jpg" group-title="Local", 119 IDX Channel
+rtp://239.1.2.248:9398
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306193587.png" group-title="Local", 120 DAAI TV
+rtp://239.1.1.179:9048
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598582765632.jpg" group-title="Local", 121 ATV
+rtp://239.1.2.88:8308
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304143082.png" group-title="Local", 122 Bali TV
+rtp://239.1.1.72:8406
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311369872.png" group-title="Local", 123 JTV
+rtp://239.1.1.6:8010
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304045370.png" group-title="Local", 124 Antara TV
+rtp://239.1.1.128:9218
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641536414-.jpeg" group-title="Local",125 O Channel
+rtp://239.1.1.144:8845
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308916967.png" group-title="Local", 127 TV Edukasi
+rtp://239.1.1.39:8208
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1605534885913.png" group-title="Local", 128 NTV
+rtp://239.1.2.102:9522
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1627656089971.jpg" group-title="Local", 129 iNews TV
+rtp://239.1.1.212:8967
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307948883.png" group-title="Local", 130 RRI NET
+rtp://239.1.2.74:8420
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1646891710-.png" group-title="Local",133 Garuda TV
+rtp://239.1.1.164:8965
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1615866531203.jpg" group-title="Local", 137 Jowo Channel
+rtp://239.1.2.6:8000
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1636640755680.jpg" group-title="Local", 200 Indonesiana.TV
+rtp://239.1.1.206:9199
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311321666.png" group-title="Local", 503 Insert
+rtp://239.1.1.113:8652
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598890112069.jpg" group-title="Local", 811 CNBC Indonesia
+rtp://239.1.2.92:9490
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1627656040198.jpg" group-title="Local", 812 MNC News
+rtp://239.1.1.146:7985
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641536369-.png" group-title="Local",889 Mentari TV
+rtp://239.1.1.127:8815
+
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648808551-.png" group-title="Local HD",880 TVRI HD
+rtp://239.1.1.238:8016
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648808519-.png" group-title="Local HD",881 Indosiar HD 
+rtp://239.1.1.214:8010
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1649314731-.png" group-title="Local HD",882 Kompas TV HD
+rtp://239.1.1.240:8017
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648808673-.png" group-title="Local HD",883 RTV HD
+rtp://239.1.1.253:8018
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308026084.png" group-title="Local HD", 900 Ruang Trampil HD
+rtp://239.1.1.111:8640
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1603816537263.png" group-title="Local HD", 907 Sea Today HD
+rtp://239.1.2.70:8396
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309920612.png" group-title="Local HD", 908 Usee Prime HD
+rtp://239.1.1.252:9486
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309882065.png" group-title="Local HD", 909 Usee Photo HD
+rtp://239.1.2.24:8118
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581313995745.png" group-title="Local HD", 910 NET. HD
+rtp://239.1.1.158:8922
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308753117.png" group-title="Local HD", 911 TransTV HD
+rtp://239.1.1.194:9138
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308820607.png" group-title="Local HD", 912 Trans7 HD
+rtp://239.1.1.222:9306
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306062652.png" group-title="Local HD", 913 CNN Indonesia HD
+rtp://239.1.1.180:9054
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308119591.png" group-title="Local HD", 914 SCTV HD
+rtp://239.1.2.58:8324
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311661866.png" group-title="Local HD", 915 Metro TV HD
+rtp://239.1.2.2:7986
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1615866548886.jpg" group-title="Local HD", 917 Jowo Channel HD
+rtp://239.1.2.212:9208
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598890134595.jpg" group-title="Local HD", 983 CNBC Indonesia HD
+rtp://239.1.2.94:9448
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1631118721317.png"  group-title="Sports", 85 Usee Sports 
+rtp://239.1.1.101:8580
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1631118779646.png"  group-title="Sports", 86 Usee Sports 2
+rtp://239.1.1.53:8292
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304301060.png"  group-title="Sports", 701 Bein Sports 1
+rtp://239.1.1.217:9204
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304336171.png"  group-title="Sports", 702 Bein Sports 3
+rtp://239.1.1.221:9300
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307114588.png"  group-title="Sports", 704 Fight Sports
+rtp://239.1.1.177:9036
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581313952031.png"  group-title="Sports", 708 NBA TV 
+rtp://239.1.1.49:8268
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306765161.png"  group-title="Sports", 709 Egg Network 
+rtp://239.1.1.50:8274
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632759040271.jpg"  group-title="Sports", 714 Horizon Sports
+rtp://239.1.1.103:8592
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1631118735073.png" group-title="Sports HD", 905 Usee Sports HD
+rtp://239.1.2.203:9180
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1631118763697.png" group-title="Sports HD", 906 Usee Sports 2 HD
+rtp://239.1.2.205:9186
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304318136.png" group-title="Sports HD", 970 Bein Sports 1 HD
+rtp://239.1.1.248:9494
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304361857.png" group-title="Sports HD", 971 Bein Sports 3 HD
+rtp://239.1.1.249:9496
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632759029381.jpg" group-title="Sports HD", 972 Horizon Sports HD
+rtp://239.1.2.201:9174
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641921438-.png" group-title="Sports HD", 973 SPOTV HD
+rtp://239.1.1.109:8623
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641921495-.png" group-title="Sports HD", 974 SPOTV 2 HD
+rtp://239.1.1.196:9145
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648808774-.png" group-title="Sports HD",975 Egg Network HD
+rtp://239.1.1.235:8015
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307129977.png" group-title="Sports HD", 976 Fight Sports HD
+rtp://239.1.2.209:9196
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581313966926.png" group-title="Sports HD", 977 NBA TV HD
+rtp://239.1.2.210:9444
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632758653381.jpg" group-title="Movies", 600 Paramount
+rtp://239.1.1.11:8040
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310270878.png" group-title="Movies", 601 HBO
+rtp://239.1.1.95:8544
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310446107.png" group-title="Movies", 602 HBO Signature
+rtp://239.1.1.93:8532
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581305833657.png" group-title="Movies", 603 Cinemax
+rtp://239.1.1.87:8496
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310389807.png" group-title="Movies", 604 HBO Hits
+rtp://239.1.1.91:8520
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310318814.png" group-title="Movies", 605 HBO Family
+rtp://239.1.1.89:8508
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632759335686.jpg" group-title="Movies", 606 Hits Movies
+rtp://239.1.1.125:8724
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308611475.png" group-title="Movies", 610 Thrill
+rtp://239.1.1.83:8472
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304863747.png" group-title="Movies", 611 Celestial Movies
+rtp://239.1.1.97:8556
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632758703641.jpg" group-title="Movies", 612 My Cinema
+rtp://239.1.1.161:8940
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309353747.png" group-title="Movies", 613 TVN Movies
+rtp://239.1.1.61:8340
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310324666.png" group-title="Movies", 614 Zee Bioskop
+rtp://239.1.1.129:8748
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581305803964.png" group-title="Movies", 615 Cinema World
+rtp://239.1.1.189:9108
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632759009830.jpg" group-title="Movies", 616 My Family Channel
+rtp://239.1.1.175:9024
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1635136432027.jpg" group-title="Movies", 617 Galaxy
+rtp://239.1.1.184:8778
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304422611.png" group-title="Movies", 618 Bioskop Indonesia
+rtp://239.1.1.226:9332
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307147880.png" group-title="Movies", 619 Flik
+rtp://239.1.1.71:8400
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311132895.png" group-title="Movies", 620 IMC
+rtp://239.1.2.20:8094
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1584461725357.jpg" group-title="Movies", 621 Galaxy Premium
+rtp://239.1.2.240:9390
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1592402108802.jpg" group-title="Movies", 622 Star Chinese Movies
+rtp://239.1.1.131:8760
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632758637971.jpg" group-title="Movies", 624 My Cinema Asia
+rtp://239.1.1.151:8880
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1635136449425.jpg" group-title="Movies HD", 923 Galaxy HD
+rtp://239.1.1.136:8790
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1587886253506.jpg" group-title="Movies HD", 925 Cinema World HD
+rtp://239.1.2.80:8578
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1596121299512.png" group-title="Movies HD", 926 Galaxy Premium HD
+rtp://239.1.2.100:9518
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632758688522.jpg" group-title="Movies HD", 936 My Cinema HD
+rtp://239.1.2.225:9318
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632758871027.jpg" group-title="Movies HD", 937 My Family Channel HD
+rtp://239.1.1.237:9396
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies HD", 956 Celestial Movies HD
+rtp://239.1.1.232:8014
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632758617259.jpg" group-title="Movies HD", 957 My Cinema Asia HD
+rtp://239.1.1.231:8062
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632119861108.jpg" group-title="Movies HD", 966 Hits Movies HD
+rtp://239.1.1.190:9116
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1592402125740.jpg" group-title="Movies HD", 968 Star Chinese Movies HD
+rtp://239.1.2.231:9336
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1635832996475.jpg" group-title="Movies HD", 969 TVN Movies HD
+rtp://239.1.2.72:8408
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1601017340422.jpg" group-title="Movies HD", 989 IMC HD
+rtp://239.1.1.145:8844
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307166993.png" group-title="Movies HD", 990 Flik HD
+rtp://239.1.1.239:9276
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310287915.png" group-title="Movies HD", 991 HBO HD
+rtp://239.1.1.203:9192
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310414888.png" group-title="Movies HD", 992 HBO Hits HD
+rtp://239.1.1.215:9264
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310468071.png" group-title="Movies HD", 993 HBO Signature
+rtp://239.1.2.249:9378
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310348264.png" group-title="Movies HD", 994 HBO Family
+rtp://239.1.2.245:9366
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632758669526.jpg" group-title="Movies HD", 995 Paramount HD
+rtp://239.1.1.211:9240
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581305895995.png" group-title="Movies HD", 996 Cinemax HD
+rtp://239.1.2.247:9372
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306177874.png" group-title="Kids", 303 Da Vinci Lifetime
+rtp://239.1.1.99:8568
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581314088692.png" group-title="Kids", 304 Nickelodeon
+rtp://239.1.1.41:8220
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581314072889.png" group-title="Kids", 305 Nick Jr.
+rtp://239.1.1.159:8928
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304819133.png" group-title="Kids", 306 Cartoon Network
+rtp://239.1.1.123:8712
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304803484.png" group-title="Kids", 308 Boomerang
+rtp://239.1.1.73:8412
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306398181.png" group-title="Kids", 310 Dreamworks
+rtp://239.1.1.139:8808
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304128406.png" group-title="Kids", 311 Baby First
+rtp://239.1.1.157:8916
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306581329.png" group-title="Kids", 312 Dunia Anak
+rtp://239.1.1.7:8016
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1600833607696.png" group-title="Kids", 313 My Kidz
+rtp://239.1.1.47:8256
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1626970975425.jpg" group-title="Kids", 314 Indi Kids
+rtp://239.1.1.45:8244
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311063710.png" group-title="Kids", 315 Horee!
+rtp://239.1.1.68:8382
+
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648808885-.jpg" group-title="Kids HD", 930 Horee Channel HD
+rtp://239.1.1.225:8013
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648809023-.png" group-title="Kids HD", 931 Da Vinci Learning HD
+rtp://239.1.1.218:8011
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306419557.png" group-title="Kids HD", 932 Dreamworks HD
+rtp://239.1.1.234:9222
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1612233138521.jpg" group-title="Kids HD", 933 Cartoon Network HD
+rtp://239.1.2.81:8083
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1626970894183.jpg" group-title="Kids HD", 934 Indi Kids HD
+rtp://239.1.1.201:9180
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1612233131567.jpg" group-title="Kids HD", 935 Boomerang HD
+rtp://239.1.1.163:8084
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1622209750331.jpg" group-title="Kids HD", 938 Nickelodeon HD
+rtp://239.1.1.14:7982
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1622209775194.jpg" group-title="Kids HD", 939 Nick Jr. HD
+rtp://239.1.1.162:7983
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632764737651.jpg" group-title="Entertaiment", 406 TLC
+rtp://239.1.1.173:9012
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1587542801781.png" group-title="Entertaiment", 500 HGTV 
+rtp://239.1.1.210:9506
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1630375445106.png" group-title="Entertaiment", 501 Rock Extreme
+rtp://239.1.1.134:8778
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581303998677.png" group-title="Entertaiment", 502 Animax
+rtp://239.1.1.64:8358
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1604587065015.jpg" group-title="Entertaiment", 505 Lifetime
+rtp://239.1.1.181:9266
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311500363.png" group-title="Entertaiment", 506 KIX
+rtp://239.1.1.81:8460
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632764601656.jpg" group-title="Entertaiment", 507 Hits
+rtp://239.1.1.171:9000
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310259158.png" group-title="Entertaiment", 508 Warner TV
+rtp://239.1.2.9:8028
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304087110.png" group-title="Entertaiment", 509 AXN
+rtp://239.1.1.137:8796
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309167386.png" group-title="Entertaiment", 510 TV5 Monde
+rtp://239.1.1.55:8300
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1630375833753.png" group-title="Entertaiment", 511 Rock Entertainment
+rtp://239.1.1.141:8820
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1634886947333.jpg" group-title="Entertaiment", 516 TVN
+rtp://239.1.1.135:8784
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311434695.png" group-title="Entertaiment", 517 KBS World
+rtp://239.1.1.167:8976
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304016685.png" group-title="Entertaiment", 518 Aniplus
+rtp://239.1.1.117:8676
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581314044122.png" group-title="Entertaiment", 519 NHK World Premium
+rtp://239.1.1.165:8964
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1592402071529.jpg" group-title="Entertaiment", 521 Star Chinese Channel
+rtp://239.1.1.153:8892
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311387414.png" group-title="Entertaiment", 523 K Plus
+rtp://239.1.1.242:9426
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1590976565934.png" group-title="Entertaiment", 524 Formosa
+rtp://239.1.2.198:9386
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306143843.png" group-title="Entertaiment", 526 CTI Asia
+rtp://239.1.2.200:9168
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306642147.png" group-title="Entertaiment", 527 Dunia Lain
+rtp://239.1.1.149:8868
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581303754018.png" group-title="Entertaiment", 531 ABC Australia
+rtp://239.1.1.33:8172
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304077052.png" group-title="Entertaiment", 532 Arirang
+rtp://239.1.1.147:8856
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304838454.png" group-title="Entertaiment", 533 CCTV 4
+rtp://239.1.1.115:8664
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581305969314.png" group-title="Entertaiment", 534 Citra Drama
+rtp://239.1.1.44:8238
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1584458769576.jpg" group-title="Entertaiment", 536 GEM
+rtp://239.1.1.86:8154
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1582787866942.png" group-title="Entertaiment", 537 ONE
+rtp://239.1.1.172:9006
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1580352235651.png" group-title="Entertaiment", 538 Zhe Jiang TV
+rtp://239.1.1.154:8898
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308169465.png" group-title="Entertaiment", 539 Shenzhen TV
+rtp://239.1.1.156:8910
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1594189847964.jpg" group-title="Entertaiment", 540 EBC Asia
+rtp://239.1.2.196:9406
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1591159561067.png" group-title="Entertaiment", 541 NewTV
+rtp://239.1.2.40:8206
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581305772704.png" group-title="Entertaiment", 542 Chinese Drama
+rtp://239.1.2.10:8306 
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581314013057.png" group-title="Entertaiment", 807 NHK World Japan
+rtp://239.1.1.236:9390
+
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648808412-.jpg" group-title="Entertaiment HD", 918 LBS Drama HD
+rtp://239.1.2.101:9521
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1606723974221.jpg" group-title="Entertaiment HD", 928 Animax HD
+rtp://239.1.1.142:8967
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1596121315453.png" group-title="Entertaiment HD", 929 Aniplus HD
+rtp://239.1.2.104:9526
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632764749710.jpg" group-title="Entertaiment HD", 944 TLC HD
+rtp://239.1.2.235:9342
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598860128546.jpg" group-title="Entertaiment HD", 945 ONE HD
+rtp://239.1.2.21:8100
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1601017323674.jpg" group-title="Entertaiment HD", 946 GEM HD
+rtp://239.1.2.18:8082
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311407460.png" group-title="Entertaiment HD", 952 K Plus HD
+rtp://239.1.1.202:9186
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581314060221.png" group-title="Entertaiment HD", 953 NHK World Premium HD
+rtp://239.1.1.174:9018
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311515147.png" group-title="Entertaiment HD", 954 KIX HD
+rtp://239.1.2.207:9190
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1634886961143.jpg" group-title="Entertaiment HD", 955 TVN HD
+rtp://239.1.2.211:9202
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311461237.png" group-title="Entertaiment HD", 958 KBS World HD
+rtp://239.1.1.13:8052
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304108338.png" group-title="Entertaiment HD", 960 AXN HD
+rtp://239.1.1.245:9436
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1630375483148.png" group-title="Entertaiment HD", 961 Rock Extreme HD
+rtp://239.1.1.112:8646
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1604587035712.jpg" group-title="Entertaiment HD", 962 Lifetime HD
+rtp://239.1.1.25:8124
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1587542817621.png" group-title="Entertaiment HD", 963 HGTV HD
+rtp://239.1.2.34:8178
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310292300.png" group-title="Entertaiment HD", 964 Warner TV HD
+rtp://239.1.2.244:9078
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632759088138.jpg" group-title="Entertaiment HD", 965 Hits HD
+rtp://239.1.1.209:9228
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1630375851589.png" group-title="Entertaiment HD", 967 Rock Entertainment HD
+rtp://239.1.2.76:9310
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581314029845.png" group-title="Entertaiment HD", 987 NHK World Japan HD
+rtp://239.1.2.239:9354
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1600833696268.png" group-title="Lifestyle", 99 Indihome Shopping
+rtp://239.1.2.98:9514
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311584971.png" group-title="Lifestyle", 106 Lejel Home Shopping 
+rtp://239.1.2.3:7992
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1607004286365.jpg" group-title="Lifestyle", 110 MShop Signature
+rtp://239.1.1.36:8190
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1636647775265.jpg" group-title="Lifestyle", 111 BTV
+rtp://239.1.1.12:7984
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311572021.png" group-title="Lifestyle", 113 Lejel Home Shopping
+rtp://239.1.1.3:7992
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1607004375227.jpg" group-title="Lifestyle", 117 Mshop Super Sale
+rtp://239.1.2.54:8298
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598582765632.jpg" group-title="Lifestyle", 121 ATV
+rtp://239.1.2.88:8308
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581303774978.png" group-title="Lifestyle", 402 AFN
+rtp://239.1.2.12:8046
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306747661.png" group-title="Lifestyle", 403 Eat&Go
+rtp://239.1.1.229:9350
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307062469.png" group-title="Lifestyle", 404 Fashion TV
+rtp://239.1.1.79:8448
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1600833734059.jpg" group-title="Lifestyle HD", 919 Indihome Shopping HD
+rtp://239.1.2.96:9510
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307096346.png" group-title="Lifestyle HD", 940 Fashion TV HD
+rtp://239.1.2.237:9348
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581303813696.png" group-title="Lifestyle HD", 943 AFN HD
+rtp://239.1.2.13:8052
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310117004.png" group-title="Knowledge", 91 Usee Today
+rtp://239.1.2.50:8274
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1636640755680.jpg" group-title="Knowledge", 200 Indonesiana.TV
+rtp://239.1.1.206:9199
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581313921232.png" group-title="Knowledge", 201 Nat Geo
+rtp://239.1.1.169:8988
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1599446215274.jpg" group-title="Knowledge", 202 Nat Geo Wild
+rtp://239.1.1.35:8184
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306125001.png" group-title="Knowledge", 203 Crime Investigation
+rtp://239.1.1.59:8328
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304883533.png" group-title="Knowledge", 204 CGTN Documentary
+rtp://239.1.1.121:8700
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310572661.png" group-title="Knowledge", 205 History
+rtp://239.1.1.57:8316
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307788124.png" group-title="Knowledge", 206 Panda TV
+rtp://239.1.1.208:9502
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306215024.png" group-title="Knowledge", 207 Discovery
+rtp://239.1.1.43:8232
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598890149929.jpg" group-title="Knowledge", 208 Lingua Channel
+rtp://239.1.2.90:9500
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632764365984.jpg" group-title="Knowledge", 209 Techstorm
+rtp://239.1.1.67:8376
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1636640777219.jpg" group-title="Knowledge HD", 916 Indonesiana.TV HD
+rtp://239.1.1.176:9197
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581313939965.png" group-title="Knowledge HD", 920 Nat Geo HD
+rtp://239.1.1.243:9432
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1599446244084.jpg" group-title="Knowledge HD", 921 Nat Geo Wild HD
+rtp://239.1.1.207:9216
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310590313.png" group-title="Knowledge HD", 922 History HD
+rtp://239.1.1.23:8112
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304910669.png" group-title="Knowledge HD", 924 CGTN Documentary
+rtp://239.1.2.4:7998
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1587886234520.jpg" group-title="Knowledge HD", 927 Discovery HD
+rtp://239.1.1.247:9440
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632764378793.jpg" group-title="Knowledge HD", 947 Techstorm HD
+rtp://239.1.2.229:9330
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="Knowledge HD", 997 Crime Investigation HD
+rtp://239.1.1.223:8012
+
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581311820519.png" group-title="Music", 450 MTV Live
+rtp://239.1.1.5:8004
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581307848624.png" group-title="Music", 453 Prambors
+rtp://239.1.1.227:9336
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581311081468.png" group-title="Music", 459 iKonser
+rtp://239.1.2.222:9256
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581305953141.png" group-title="Music", 535 Citra Dangdut
+rtp://239.1.1.143:8832
+
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648808719-.png" group-title="Music HD", 941 Prambors HD
+rtp://239.1.1.254:8019
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581311840261.png" group-title="Music HD", 948 MTV Live HD
+rtp://239.1.2.16:8070
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581311095553.png" group-title="Music HD", 949 iKonser HD
+rtp://239.1.2.221:9250
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306805332.png" group-title="News", 800 Euronews
+rtp://239.1.1.193:9132
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306076437.png" group-title="News", 801 CNN International
+rtp://239.1.1.105:8604
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304649783.png" group-title="News", 802 Bloomberg
+rtp://239.1.1.199:9168
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306015075.png" group-title="News", 803 CNBC Asia
+rtp://239.1.1.155:8904
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581305049915.png" group-title="News", 804 CNA
+rtp://239.1.1.65:8364
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581303857413.png" group-title="News", 805 Al Jazeera
+rtp://239.1.1.195:9144
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581556530497.png" group-title="News", 806 France24
+rtp://239.1.1.191:9120
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306704650.png" group-title="News", 808 DW
+rtp://239.1.1.187:9096
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1590932834837.jpg" group-title="News", 809 TVBS Taiwan
+rtp://239.1.2.118:9410
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1597377197131.jpg" group-title="News", 810 TRT World
+rtp://239.1.2.84:8296
+
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306104579.png" group-title="News HD", 982 CNN International HD
+rtp://239.1.1.246:9438
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581305064953.png" group-title="News HD", 984 CNA HD
+rtp://239.1.2.23:8112
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581303915958.png" group-title="News HD", 985 Al Jazeera HD
+rtp://239.1.2.8:8022
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309712381.png" group-title="News HD", 986 France24 HD
+rtp://239.1.2.22:8106
+#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306722281.png" group-title="News HD", 988 DW HD
+rtp://239.1.2.243:9360
+
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581303974011.png" group-title="Relegious", 850 Sunna TV
+rtp://239.1.1.185:9084
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581307923474.png" group-title="Relegious", 852 Rodja TV
+rtp://239.1.1.224:9320
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581311794736.png" group-title="Relegious", 853 MTA TV
+rtp://239.1.2.234:9374
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581311761143.png" group-title="Relegious", 854 MQTV
+rtp://239.1.1.213:9252
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581309194685.png" group-title="Relegious", 855 TV9
+rtp://239.1.1.150:8874
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581308932177.png" group-title="Relegious", 856 TV MU
+rtp://239.1.1.170:8994
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1584461700446.jpg" group-title="Relegious", 858 Tawaf TV
+rtp://239.1.2.236:9366
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581309067861.png" group-title="Relegious", 860 MUI
+rtp://239.1.2.52:8286
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581311046600.png" group-title="Relegious", 870 Hope Channel
+rtp://239.1.1.78:8442
+#EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581309800477.png" group-title="Relegious", 871 U Channel
+rtp://239.1.1.220:9522
