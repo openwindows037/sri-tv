@@ -8,22 +8,11 @@ https://github.com/openwindows037/sri-tv/blob/main/Cara%20Insert%20Kode%20OTT%20
 #EXTINF:-1 tvg-id="Sriwijaya TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/ETVnewLogo.png/200px-ETVnewLogo.png" group-title="Informasi",ETV Premium
 https://github.com/openwindows037/sri-tv/blob/main/ETV%20Premium.mp4?raw=true
 
+
 ================== BRI LIGA INDONESIA ====================
 
 #EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423"group-title="BRI LIGA INDONESIA", Live BRI 1
 http://golive.yn.lt:80/live/liga1/01.m3u8
-
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423"group-title="BRI LIGA INDONESIA", Live BRI 2
-http://golive.yn.lt:80/live/liga1/02.m3u8
-
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423"group-title="BRI LIGA INDONESIA", Live BRI 3
-http://golive.yn.lt:80/live/liga1/03.m3u8
-
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423"group-title="BRI LIGA INDONESIA", Live BRI 4
-http://golive.yn.lt:80/live/liga1/04.m3u8
-
-#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423"group-title="BRI LIGA INDONESIA", Live BRI 5
-http://golive.yn.lt:80/live/liga1/05.m3u8
 
 
 #LIGA INGGRIS
