@@ -230,6 +230,12 @@ https://webudit.salamus1.lol/lb/premium321/index.m3u8?|referer=https://widevine.
 #EXTVLCOPT:sub-delay=0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash                           
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha                    
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_401.png" tvg-id="HBO Asia" tvg-name="HBO Asia" group-title="Movies",HBO Asia
+https://cdnjkt2.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movies",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
