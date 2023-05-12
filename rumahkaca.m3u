@@ -232,7 +232,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=MmFhYmVhNjc0ZWZiODQxYldWNkw3SmZtS1hpODlxVlVJY2pRVDdrRHg1TWt2WDk2K09VQkVGWVZMWEltQlRGTUFNbW1KeWwvVmVZeW1UNGhiZUYwT2ROQ085TGNKM29KQ2ZFVHFLKy9SSXNBNXh1SUJhM09nR0lwTGV0L2JuR2hlMnZDaHB5dHBmc3N6K2ZO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png" tvg-id="HBO HD" tvg-name="HBO" group-title="Movies",HBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png" tvg-id="HBO HD" tvg-name="HBO" group-title="Movies",HBO Asia
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movies",HBO Signature
