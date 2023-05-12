@@ -231,9 +231,9 @@ https://webudit.salamus1.lol/lb/premium321/index.m3u8?|referer=https://widevine.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=Yjk3ODhmNTRiY2M5MGVmM3YwcW4xT2xuMy9TaFFFYTBOSE1iVlRvd2dudjRXMWtQT0RsKzdtc3RxOW9OQjhoNlRwZis3SUdHMzhEUHEveUVJZzNvVlBYYnMwWHhpZ0NOZE1UV1ZnT0RZYkUvNXlURURTTTFJK3J4WjZGRUQ2OW1Sa2U4dStrZHQ4N2t2N2NZ
-#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/banner_xxhdpi.jpg" tvg-id=".id" tvg-name="HBO" group-title="Movies",HBO Asia
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=MmFhYmVhNjc0ZWZiODQxYldWNkw3SmZtS1hpODlxVlVJY2pRVDdrRHg1TWt2WDk2K09VQkVGWVZMWEltQlRGTUFNbW1KeWwvVmVZeW1UNGhiZUYwT2ROQ085TGNKM29KQ2ZFVHFLKy9SSXNBNXh1SUJhM09nR0lwTGV0L2JuR2hlMnZDaHB5dHBmc3N6K2ZO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png" tvg-id="HBO HD" tvg-name="HBO" group-title="Movies",HBO
+https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movies",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
