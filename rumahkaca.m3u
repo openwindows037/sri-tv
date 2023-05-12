@@ -230,6 +230,9 @@ https://webudit.salamus1.lol/lb/premium321/index.m3u8?|referer=https://widevine.
 #EXTVLCOPT:sub-delay=0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":
+"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
 #KODIPROP:inputstream.adaptive.manifest_type=dash                           
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha                    
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
