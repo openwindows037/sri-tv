@@ -230,6 +230,7 @@ https://webudit.salamus1.lol/lb/premium321/index.m3u8?|referer=https://widevine.
 #EXTVLCOPT:sub-delay=0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=Yjk3ODhmNTRiY2M5MGVmM3YwcW4xT2xuMy9TaFFFYTBOSE1iVlRvd2dudjRXMWtQT0RsKzdtc3RxOW9OQjhoNlRwZis3SUdHMzhEUHEveUVJZzNvVlBYYnMwWHhpZ0NOZE1UV1ZnT0RZYkUvNXlURURTTTFJK3J4WjZGRUQ2OW1Sa2U4dStrZHQ4N2t2N2NZ
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/banner_xxhdpi.jpg" tvg-id=".id" tvg-name="HBO" group-title="Movies",HBO Asia
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
