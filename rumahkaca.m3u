@@ -23,10 +23,10 @@ https://github.com/openwindows037/sri-tv/blob/main/ETV%20Premium.mp4?raw=true
 https://avi-live-channel-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="Nasional",SCTV
-http://210.210.155.37/qwr9ew/s/s03/01.m3u8
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Nasional",Indosiar
-http://210.210.155.37/qwr9ew/s/s04/01.m3u8
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Nasional",Metro TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
