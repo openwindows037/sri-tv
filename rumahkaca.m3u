@@ -217,23 +217,10 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Ch
 
 #Movies
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_401.png" group-title="Movies",HBO US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium321/index.m3u8?|referer=https://widevine.licenses4.me/
-
-#EXTINF:0  group-title="Movies" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO HD
-#EXTVLCOPT:sub-file=https://elec-en.otteravision.com/elec/en/elec_en_english/00155/elec_en_english_08857.vtt
-#EXTVLCOPT:subsdec-encoding=System Default
-#EXTVLCOPT:subsdec-align=0
-#EXTVLCOPT:freetype-rel-fontsize=16
-#EXTVLCOPT:sub-fps=0
-#EXTVLCOPT:sub-delay=0
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=Yjk3ODhmNTRiY2M5MGVmM3YwcW4xT2xuMy9TaFFFYTBOSE1iVlRvd2dudjRXMWtQT0RsKzdtc3RxOW9OQjhoNlRwZis3SUdHMzhEUHEveUVJZzNvVlBYYnMwWHhpZ0NOZE1UV1ZnT0RZYkUvNXlURURTTTFJK3J4WjZGRUQ2OW1Sa2U4dStrZHQ4N2t2N2NZ
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_401.png" tvg-id=".id" tvg-name="HBO" group-title="Movies",HBO Asia
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_401.png" tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO
+https://cdn.renotv.my.id/go/playt/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=Y2M0NzJiMWIyM2E4ZDExOTlmeXo5bW4vcHMrSHZFK1VYcUtoeEw4NmUzWWZQNFRyU2dlTS9wWm5qSGkrb0NtSUlmd1QzaTB1RTJPVnoxZEJWMFl3M2d3SDh4OXF6dkIydWVWQlRWUTBxaUpuaDJGUFJ5OUlPeHpPNHBWOWJpU1dFVmZVZlE3Z0kwT0d3WUp2
