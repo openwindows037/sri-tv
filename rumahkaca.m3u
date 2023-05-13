@@ -230,10 +230,9 @@ https://webudit.salamus1.lol/lb/premium321/index.m3u8?|referer=https://widevine.
 #EXTVLCOPT:sub-delay=0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=MmFhYmVhNjc0ZWZiODQxYldWNkw3SmZtS1hpODlxVlVJY2pRVDdrRHg1TWt2WDk2K09VQkVGWVZMWEltQlRGTUFNbW1KeWwvVmVZeW1UNGhiZUYwT2ROQ085TGNKM29KQ2ZFVHFLKy9SSXNBNXh1SUJhM09nR0lwTGV0L2JuR2hlMnZDaHB5dHBmc3N6K2ZO
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_401.png" tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO Asia
-https://cdn.renotv.my.id/go/playt/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTVLCOPT:http-user-agent=HBOGO/r61.v7.4.017.07
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_401.png" tvg-name="HBO" group-title="Movies",HBO Asia
+https://cdn.renotv.my.id/get.m3u8?ch=MzcxNTQwOGM3MWVjNDkwOVJBMld5NElzMWU4cDNZMldCKy91cnF5ZGZwY2NxY25UYmVMVGMwUDNOMWxMQlNCWkJ3RGQyR0Iza2laQk4xYzMvaXozSjQ1MmQ2UU9wUWlZWXVucVlZb0hFbkhMYVd6UFMwMjZVL1Z4STlzNzlBaFIxalR2Q2tnK2svOXdVV2Z5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=Y2M0NzJiMWIyM2E4ZDExOTlmeXo5bW4vcHMrSHZFK1VYcUtoeEw4NmUzWWZQNFRyU2dlTS9wWm5qSGkrb0NtSUlmd1QzaTB1RTJPVnoxZEJWMFl3M2d3SDh4OXF6dkIydWVWQlRWUTBxaUpuaDJGUFJ5OUlPeHpPNHBWOWJpU1dFVmZVZlE3Z0kwT0d3WUp2
