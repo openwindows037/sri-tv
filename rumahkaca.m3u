@@ -232,27 +232,31 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=MmFhYmVhNjc0ZWZiODQxYldWNkw3SmZtS1hpODlxVlVJY2pRVDdrRHg1TWt2WDk2K09VQkVGWVZMWEltQlRGTUFNbW1KeWwvVmVZeW1UNGhiZUYwT2ROQ085TGNKM29KQ2ZFVHFLKy9SSXNBNXh1SUJhM09nR0lwTGV0L2JuR2hlMnZDaHB5dHBmc3N6K2ZO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png" tvg-id="HBO HD" tvg-name="HBO" group-title="Movies",HBO Asia
-https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_401.png" tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO Asia
+https://cdn.renotv.my.id/go/playt/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movies",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-https://anevi-live-channel-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=Y2M0NzJiMWIyM2E4ZDExOTlmeXo5bW4vcHMrSHZFK1VYcUtoeEw4NmUzWWZQNFRyU2dlTS9wWm5qSGkrb0NtSUlmd1QzaTB1RTJPVnoxZEJWMFl3M2d3SDh4OXF6dkIydWVWQlRWUTBxaUpuaDJGUFJ5OUlPeHpPNHBWOWJpU1dFVmZVZlE3Z0kwT0d3WUp2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="Movies",HBO Signature
+https://cdn.renotv.my.id/go/playt/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="Movies",HBO Hits
 http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683151&extension=ts&play_token=RmFK3j6FUm
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=NGNkNjUyMGMzMDBiMDcwYkVBQ0V1UEdtdWt6eTJSVFNQdHVhb0M0M2ZSeUp1UmphQXkxUndnZXpleFAwOHRIaEdObndvNnRRbEs2ZkZ6anlwT1o3cURQYS9zazlGT1ZyZWNuT0c3Q1pESDdKZWYzVk1ZVmYvOVhvRUI2Mm5ob3FXYU1zSG9qR1V4Y0lxTjNh
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/HBO_HiTS.svg/revision/latest/scale-to-width-down/627?cb=20100511073403" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="Movies",HBO Hits Asia
+https://cdn.renotv.my.id/go/playt/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movies",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
-https://anevi-live-channel-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=NjgxZDQ1OTI2NmM3YmI2NS9jbCs4Q2hLOG1EZVRZWjVZSG43SXdpdVBYOW55WS9MRkVxdnpDY2FSa3hTd0wzRlUzMTVHNTlNQjIwTkptYy91N2wwR3ExMEpJUVVKYVFuQ2d2Wi9SUTZlampXVkhGU2I1dng4TW1nQ1F2Qm5LOVo5QmJMUERnbm5MSXB2WXVH
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="Movies",HBO Family
+https://cdn.renotv.my.id/go/playt/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="Movies",Cinemax Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-https://anevi-live-channel-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=ZjA1NDJlMzZlNjVmYmI5ZXlCRXRLUEhYa1crNzBUaE5lcWtxdXJWenB2QWxBL0JTbkdpSG9xczk3bEN4NWJPRUVwekNRak50Tyt1ZTF0dnl6K1JhaWFMQmdId2tFalI5c0k3R2c2MUllOG1ldnZyc1cxUXN6UU10UFdoRkhCK1FhT1RPREEzdDZBSzU0OVRk
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cinemax-logo-2F409EC002-seeklogo.com.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="Movies",Cinemax
+https://cdn.renotv.my.id/go/playt/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_415.png" group-title="Movies",TVN Movies Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
