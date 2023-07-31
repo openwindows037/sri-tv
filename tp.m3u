@@ -730,6 +730,95 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 ======================================================== RELIGI =============================================================================
 =============================================================================================================================================
+#EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.postimg.cc/zvFXpvjB/20220926-173931.png" group-title="Religi",MQTV
+http://beetv.my.id/x/usee-mqtv-gojokkk.m3u8
+
+#EXTINF:-1 tvg-id="MuhammadiyahTV.id" tvg-logo="https://i.postimg.cc/Y9crHYD0/20220926-172734.png" group-title="Religi",Muhammadiyah TV
+http://beetv.my.id/x/usee-muhammadiyahtv-gojokkk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YPxwx93/20220926-172451.png" group-title="Religi",BRTV
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Religi" tvg-id="TV9Nusantara.id" tvg-logo="https://i.postimg.cc/pXkLF9rc/20220926-172800.png",TV 9 Nusantara
+https://nyanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+  
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Religi" tvg-logo="https://i.postimg.cc/c4dJC7x8/20220926-172826.png",Al-Quran Kareem TV
+https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VN0fpDR2/20220926-172636.png" group-title="Religi",Rodja TV HD
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/L6Jpw8mJ/20230123-135534.png",DEI KIDS TV
+https://h1.intechmedia.net/intech/ch80.m3u8
+  
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/DzXN7bPv/20221222-095738.png",Ahsan TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+  
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/3rvYDbdj/20221224-125807.png",Al Wafa Tarim
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/xCGFzDZB/20221222-095718.png",Al Furqon TV
+https://h1.intechmedia.net/intech/ch24.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/1X9707hX/20221222-095705.png",Al Iman TV
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/V6PVvLKj/20221222-095649.png",Ashiil TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/rFwYKHNY/20221222-095633.png",Hijrah TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/yxvQLhsP/20221222-095615.png",Insan TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/c1mb1Wwn/20221222-095559.png",Naajiya TV
+https://h1.intechmedia.net/intech/ch7.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/c4kkYcD1/20221222-095549.png",Izzah TV
+https://streaming.sigraduta.co.id/izzahtv.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/sgB6JZ8Y/20221222-095533.png",Makkah TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/HkfSvkDf/20221222-095513.png",Madinah TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/8CMZ2gTs/20221222-095457.png",MEDS TV Aceh
+https://h1.intechmedia.net/intech/ch23.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/DZhxFpz6/20221222-095437.png",MGI TV
+https://tv.rodja.live/tasik/mgitv/playlist.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/NMxp089c/20221222-095418.png",Muadz TV
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/mk2V1cCF/20221222-095359.png",Niaga TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/Rhsd7MLp/20221222-095346.png",Rasyaad TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/L4NxKTFk/20221222-095326.png",Surau TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/3JNnKv3s/20221222-095310.png",UFA TV
+https://h1.intechmedia.net/intech/ch27.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/9Fk1zQMr/20221222-095254.png",Radio Kita TV
+https://h1.intechmedia.net/intech/ch16.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/pLnCjMhk/20221222-095232.png",Artvisi
+https://streaming.yufid.com/hls/artvisi.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/9f5ptgy2/20221222-095213.png",Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png"group-title="Religi",Muslim TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
