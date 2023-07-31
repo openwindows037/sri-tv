@@ -2762,7 +2762,4 @@ https://webudit.cdnhks.lol/lb/premium583/index.m3u8
 #EXTINF:-1 tvg-id="PrimaSport.ru" tvg-logo="https://i.postimg.cc/TPgMX3XP/20230606-171247.png" group-title="SPORTS",Prima Sport 2
 https://webudit.cdnhks.lol/lb/premium584/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="RedBullTV.de" tvg-logo="https://i.postimg.cc/TP8PPL6N/20230722-202202.png" group-title="SPORTS",Red Bull TV
-https://stream.mammothtv.my.id/SPORTS/redbull-tv/index.m3u8
 
