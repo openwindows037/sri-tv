@@ -219,6 +219,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+http://ktpremium.com:2095/live/90025543/78802/26076.ts
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Movies",HBO Andro 6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
