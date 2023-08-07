@@ -512,6 +512,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 ======================================================== SPORTS =====================================================================
 =====================================================================================================================================
+#EXTINF:-1 tvg-id="MU TV" tvg-logo="https://lh3.googleusercontent.com/-rP2z0NWQue8/TX968FDzO1I/AAAAAAAAE74/ivzEed5cvv0/s1600/MUTV.png" group-title="SPORTS",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="https://clipart.info/images/ccovers/1526524316real-madrid-club-de-futbol-png-logo.png" group-title="SPORTS",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="SPORTS",MOJI
 https://github.com/openwindows037/sri-tv/raw/main/moji.m3u8
 
