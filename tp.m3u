@@ -12,6 +12,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTINF:0 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="Local",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+http://103.166.27.2:800/play/a015
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Local",Indosiar 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -526,6 +527,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="SPORTS",MOJI
 https://github.com/openwindows037/sri-tv/raw/main/moji.m3u8
+http://103.166.27.2:800/play/a017
 
 #EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/446/546/png-transparent-mnc-sports-mnc-vision-soccer-channel-mnc-play-media-nusantara-citra-others-text-trademark-sport.png" group-title="SPORTS",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
