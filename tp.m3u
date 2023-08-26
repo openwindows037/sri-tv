@@ -511,6 +511,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 ======================================================== SPORTS =====================================================================
 =====================================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/VTV6_logo.png/800px-VTV6_logo.png?20170916133553" group-title="SPORTS",VTV6
+https://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORTS",RTM Sukan 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/segment_ua194x9ch_ctvideo_cfm4s_ridp0va0br4500000_cs87121008000_mpd.m4s
