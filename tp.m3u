@@ -19,6 +19,7 @@ http://103.166.27.2:800/play/a015
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1693410396~acl=/hls-p/ingest_14573_*/*~hmac=01c8ba3daf721c8d11882f61ee9b0f2261809138461dc2acd7bb01fcfddf16be/hls-p/ingest_14573_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-DVgvtt30dME/Tr8p3tqcoOI/AAAAAAAAH-U/TlrVGkQkYNA/s1600/kompas_tv_id.png" group-title="Local",Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
