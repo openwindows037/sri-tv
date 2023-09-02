@@ -2,8 +2,11 @@
 
 ============================================= LIVE EVENT =============================================
 =====================================================================================================
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-7R5qQayOAyU/Xfm2LA3ZknI/AAAAAAAASak/7u9XJLP6wLkF6oBvz-INtWN2Ggunvn96QCLcBGAsYHQ/s1600/Live%2BStreaming.png" group-title="Live Event",Chelsea VS Nottingham Forest
+#EXTINF:0 tvg-logo="https://www.vhv.rs/file/max/21/213054_live-png.png" group-title="Live Event",Chelsea VS Nottingham Forest
 https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.vhv.rs/file/max/21/213054_live-png.png" group-title="Live Event",MCI Vs FUL
+https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8
 
 ============================================= LOCAL =============================================
 =====================================================================================================
