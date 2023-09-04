@@ -2184,3 +2184,719 @@ http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/157550.m3u8
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="Sports" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.cdnhks.lol/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="ASTRO SUPERSPORT 1" tvg-logo="https://logo.iptveditor.com/astrosupersport.png" group-title="Sports HD", ASTRO SUPERSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099133
+#EXTINF: -1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2" tvg-logo="https://logo.iptveditor.com/astrosupersport2.png" group-title="Sports HD", ASTRO SUPERSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099134
+#EXTINF: -1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3" tvg-logo="https://logo.iptveditor.com/astrosupersport3.png" group-title="Sports HD", ASTRO SUPERSPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099135
+#EXTINF: -1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4" tvg-logo="https://logo.iptveditor.com/astrosupersport4.png" group-title="Sports HD", ASTRO SUPERSPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099136
+#EXTINF: -1 tvg-id="astrosupersport5.my" tvg-name="ASTRO SUPERSPORT 5" tvg-logo="https://logo.iptveditor.com/astrosupersport5.png" group-title="Sports HD", ASTRO SUPERSPORT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099137
+#EXTINF: -1 tvg-id="btsport1.uk" tvg-name="BT SPORT 1" tvg-logo="https://logo.iptveditor.com/btsport1.png" group-title="Sports HD", BT SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099138
+#EXTINF: -1 tvg-id="btsport2.uk" tvg-name="BT SPORT 2" tvg-logo="https://logo.iptveditor.com/btsport2.png" group-title="Sports HD", BT SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099139
+#EXTINF: -1 tvg-id="btsport3.uk" tvg-name="BT SPORT 3" tvg-logo="https://logo.iptveditor.com/btsport3.png" group-title="Sports HD", BT SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099140
+
+#EXTINF: -1 tvg-id="btsportespn.uk" tvg-name="BT SPORT ESPN" tvg-logo="https://logo.iptveditor.com/btsportespn.png" group-title="Sports HD", BT SPORT ESPN
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099141
+
+#EXTINF: -1 tvg-id="skysportsaction.uk" tvg-name="SKY SPORTS ACTION" tvg-logo="https://logo.iptveditor.com/skysportsaction.png" group-title="Sports HD", SKY SPORTS ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099142
+#EXTINF: -1 tvg-id="skysportsarena.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="Sports HD", SKY SPORTS ARENA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099143
+#EXTINF: -1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="Sports HD", SKY SPORTS CRICKET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099144
+#EXTINF: -1 tvg-id="skysportsf1.uk" tvg-name="SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="Sports HD", SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099145
+#EXTINF: -1 tvg-id="skysportsfootball.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="Sports HD", SKY SPORTS FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099146
+#EXTINF: -1 tvg-id="skysportsgolf.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="Sports HD", SKY SPORTS GOLF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099147
+#EXTINF: -1 tvg-id="skysportsmainevent.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="Sports HD", SKY SPORTS MAIN EVENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099148
+#EXTINF: -1 tvg-id="skysportsmix.uk" tvg-name="SKY SPORTS MIX" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="Sports HD", SKY SPORTS MIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099149
+#EXTINF: -1 tvg-id="skysportspremiereleague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="Sports HD", SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099150
+#EXTINF: -1 tvg-name="SKY SPORTS BUNDESLIGA" tvg-logo="https://logo.iptveditor.com/skysportbundesliga.png" group-title="Sports HD", SKY SPORTS BUNDESLIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099151
+#EXTINF: -1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://logo.iptveditor.com/foxsports1.png" group-title="Sports HD", FOX SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099152
+#EXTINF: -1 tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="Sports HD", FOX SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099153
+#EXTINF: -1 tvg-id="usanetwork.us" tvg-name="USA NETWORK" tvg-logo="https://logo.iptveditor.com/network.png" group-title="Sports HD", USA NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099154
+#EXTINF: -1 tvg-id="cbssportsnetwork.us" tvg-name="CBS SPORTS NETWORK" tvg-logo="https://logo.iptveditor.com/cbssportsnetwork.png" group-title="Sports HD", CBS SPORTS NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099155
+#EXTINF: -1 tvg-id="nbcnetwork.us" tvg-name="CNBC NETWORK" tvg-logo="https://logo.iptveditor.com/cnbc.png" group-title="Sports HD", CNBC NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099156
+#EXTINF: -1 tvg-id="cnbc.us" tvg-name="NBC USA" tvg-logo="https://logo.iptveditor.com/nbc.png" group-title="Sports HD", NBC USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099157
+#EXTINF: -1 tvg-id="espn.us" tvg-name="ESPN 1 US" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Sports HD", ESPN 1 US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099158
+#EXTINF: -1 tvg-id="espn2.us" tvg-name="ESPN 2 US" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Sports HD", ESPN 2 US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099159
+#EXTINF: -1 tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1 HD" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="Sports HD", EUROSPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099160
+#EXTINF: -1 tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2 HD" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="Sports HD", EUROSPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099161
+#EXTINF: -1 tvg-id="Viaplay2.uk" tvg-name="VIAPLAY SPORT 1" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/viaplay_sports_1.png" group-title="Sports HD", VIAPLAY SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099162
+#EXTINF: -1 tvg-id="Viaplay2.uk" tvg-name="VIAPLAY SPORT 2" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/viaplay_sports_2.png" group-title="Sports HD", VIAPLAY SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099163
+#EXTINF: -1 tvg-id="supersportaction.za" tvg-name="SUPERSPORT ACTION" tvg-logo="https://logo.iptveditor.com/supersportaction.png" group-title="Sports HD", SUPERSPORT ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099164
+#EXTINF: -1 tvg-id="supersportfootball.za" tvg-name="SUPERSPORT FOOTBALL" tvg-logo="https://logo.iptveditor.com/supersportfootball.png" group-title="Sports HD", SUPERSPORT FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099165
+#EXTINF: -1 tvg-id="supersportgolf.za" tvg-name="SUPERSPORT GOLF" tvg-logo="https://logo.iptveditor.com/supersportgolf.png" group-title="Sports HD", SUPERSPORT GOLF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099166
+#EXTINF: -1 tvg-id="supersportgrandstand.za" tvg-name="SUPERSPORT GRANDSTAND" tvg-logo="https://logo.iptveditor.com/supersportgrandstand.png" group-title="Sports HD", SUPERSPORT GRANDSTAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099167
+#EXTINF: -1 tvg-id="supersportpsl.za" tvg-name="SUPERSPORT PSL" tvg-logo="https://logo.iptveditor.com/supersportpsl.png" group-title="Sports HD", SUPERSPORT PSL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099168
+#EXTINF: -1 tvg-id="supersportlaliga.za" tvg-name="SUPERSPORT LA LIGA" tvg-logo="https://logo.iptveditor.com/supersportlaliga.png" group-title="Sports HD", SUPERSPORT LA LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099169
+#EXTINF: -1 tvg-id="supersportpremierleague.za" tvg-name="SUPERSPORT PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/supersportpremierleague.png" group-title="Sports HD", SUPERSPORT PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099170
+#EXTINF: -1 tvg-id="supersportmotorsport.za" tvg-name="SUPERSPORT MOTORSPORTS" tvg-logo="https://logo.iptveditor.com/supersportmotorsport.png" group-title="Sports HD", SUPERSPORT MOTORSPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099171
+#EXTINF: -1 tvg-id="supersportrugby.za" tvg-name="SUPERSPORT RUGBY" tvg-logo="https://logo.iptveditor.com/supersportrugby.png" group-title="Sports HD", SUPERSPORT RUGBY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099172
+#EXTINF: -1 tvg-id="supersporttennis.za" tvg-name="SUPERSPORT TENNIS" tvg-logo="https://logo.iptveditor.com/supersporttennis.png" group-title="Sports HD", SUPERSPORT TENNIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099173
+#EXTINF: -1 tvg-id="supersportvariety1.za" tvg-name="SUPERSPORT VARIETY 1" tvg-logo="https://logo.iptveditor.com/supersportvariety1.png" group-title="Sports HD", SUPERSPORT VARIETY 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099174
+#EXTINF: -1 tvg-id="supersportvariety2.za" tvg-name="SUPERSPORT VARIETY 2" tvg-logo="https://logo.iptveditor.com/supersportvariety2.png" group-title="Sports HD", SUPERSPORT VARIETY 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099175
+#EXTINF: -1 tvg-id="supersportvariety3.za" tvg-name="SUPERSPORT VARIETY 3" tvg-logo="https://logo.iptveditor.com/supersportvariety3.png" group-title="Sports HD", SUPERSPORT VARIETY 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099176
+#EXTINF: -1 tvg-id="supersportvariety4.za" tvg-name="SUPERSPORT VARIETY 4" tvg-logo="https://logo.iptveditor.com/supersportvariety4.png" group-title="Sports HD", SUPERSPORT VARIETY 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099177
+#EXTINF: -1 tvg-name="SPORT TV 1 HD" tvg-logo="https://logo.iptveditor.com/sporttv1.png" group-title="Sports HD", SPORT TV 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099178
+#EXTINF: -1 tvg-name="SPORT TV 2 HD" tvg-logo="https://logo.iptveditor.com/sporttv2.png" group-title="Sports HD", SPORT TV 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099179
+#EXTINF: -1 tvg-name="SPORT TV 3 HD" tvg-logo="https://logo.iptveditor.com/sporttv3.png" group-title="Sports HD", SPORT TV 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099180
+#EXTINF: -1 tvg-name="ELEVEN 1 HD" tvg-logo="https://logo.iptveditor.com/eleven1.png" group-title="Sports HD", ELEVEN 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099181
+#EXTINF: -1 tvg-name="ELEVEN 2 HD" tvg-logo="https://logo.iptveditor.com/eleven2.png" group-title="Sports HD", ELEVEN 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099182
+#EXTINF: -1 tvg-name="ELEVEN 3 HD" tvg-logo="https://logo.iptveditor.com/eleven3.png" group-title="Sports HD", ELEVEN 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099183
+#EXTINF: -1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 PORTUGAL" tvg-logo="https://logo.iptveditor.com/elevensport1.png" group-title="Sports HD", ELEVEN SPORTS 1 PORTUGAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099184
+#EXTINF: -1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 PORTUGAL" tvg-logo="https://logo.iptveditor.com/elevensport2.png" group-title="Sports HD", ELEVEN SPORTS 2 PORTUGAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099185
+#EXTINF: -1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 PORTUGAL" tvg-logo="https://logo.iptveditor.com/elevensport3.png" group-title="Sports HD", ELEVEN SPORTS 3 PORTUGAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099186
+#EXTINF: -1 tvg-id="canalsport.fr" tvg-name="CANAL+ SPORT  1" tvg-logo="https://logo.iptveditor.com/canalsport.png" group-title="Sports HD", CANAL+ SPORT  1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099187
+#EXTINF: -1 tvg-id="canalsport.fr" tvg-name="CANAL+ SPORT  2" tvg-logo="https://logo.iptveditor.com/canalsport3.png" group-title="Sports HD", CANAL+ SPORT  2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099188
+#EXTINF: -1 tvg-id="canalsport.pl" tvg-name="CANAL+ SPORT 1 POLAND" tvg-logo="https://logo.iptveditor.com/canal+sport.png" group-title="Sports HD", CANAL+ SPORT 1 POLAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099189
+#EXTINF: -1 tvg-id="canalsport2.pl" tvg-name="CANAL+ SPORT 2 POLAND" tvg-logo="https://logo.iptveditor.com/canal+sport2.png" group-title="Sports HD", CANAL+ SPORT 2 POLAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099190
+#EXTINF: -1 tvg-name="MOVISTAR LALIGA 1" tvg-logo="https://logo.iptveditor.com/movistarlaliga1.png" group-title="Sports HD", MOVISTAR LALIGA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099191
+#EXTINF: -1 tvg-name="MOVISTAR LIGA DE CAMPEONES" tvg-logo="https://logo.iptveditor.com/movistarligacampeones.png" group-title="Sports HD", MOVISTAR LIGA DE CAMPEONES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099192
+#EXTINF: -1 tvg-name="DIGI SPORT 1" tvg-logo="https://logo.iptveditor.com/digisport1.png" group-title="Sports HD", DIGI SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099193
+#EXTINF: -1 tvg-name="DIGI SPORT 2" tvg-logo="https://logo.iptveditor.com/digisport2.png" group-title="Sports HD", DIGI SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099194
+#EXTINF: -1 tvg-name="DIGI SPORT 3" tvg-logo="https://logo.iptveditor.com/digisport3.png" group-title="Sports HD", DIGI SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099195
+#EXTINF: -1 tvg-name="DIGI SPORT 4" tvg-logo="https://logo.iptveditor.com/digisport4.png" group-title="Sports HD", DIGI SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099196
+#EXTINF: -1 tvg-name="ORANGE SPORT 1" tvg-logo="https://logo.iptveditor.com/orangesport.png" group-title="Sports HD", ORANGE SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099197
+#EXTINF: -1 tvg-name="ORANGE SPORT 2" tvg-logo="https://logo.iptveditor.com/orangesport.png" group-title="Sports HD", ORANGE SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099198
+#EXTINF: -1 tvg-name="ORANGE SPORT 3" tvg-logo="https://logo.iptveditor.com/orangesport.png" group-title="Sports HD", ORANGE SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099199
+#EXTINF: -1 tvg-name="ORANGE SPORT 4" tvg-logo="https://logo.iptveditor.com/orangesport.png" group-title="Sports HD", ORANGE SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099200
+#EXTINF: -1 tvg-name="DAZN 1 DEPORTES" tvg-logo="https://logo.iptveditor.com/mdeportes.png" group-title="Sports HD", DAZN 1 DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099201
+#EXTINF: -1 tvg-name="DAZN 2 DEPORTES" tvg-logo="https://logo.iptveditor.com/mdeportes.png" group-title="Sports HD", DAZN 2 DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099202
+#EXTINF: -1 tvg-name="DAZN LA LIGA" tvg-logo="https://logo.iptveditor.com/laliga.png" group-title="Sports HD", DAZN LA LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099203
+#EXTINF: -1 tvg-name="DAZN F1" tvg-logo="https://logo.iptveditor.com/daznf1.png" group-title="Sports HD", DAZN F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099204
+#EXTINF: -1 tvg-name="DAZN 1" tvg-logo="https://logo.iptveditor.com/dazn1.png" group-title="Sports HD", DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099205
+#EXTINF: -1 tvg-name="DAZN 2" tvg-logo="https://logo.iptveditor.com/dazn2.png" group-title="Sports HD", DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099206
+#EXTINF: -1 tvg-name="DAZN 3" tvg-logo="https://logo.iptveditor.com/dazn3.png" group-title="Sports HD", DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099207
+#EXTINF: -1 tvg-name="DAZN 4" tvg-logo="https://logo.iptveditor.com/dazn4.png" group-title="Sports HD", DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099208
+#EXTINF: -1 tvg-id="tsn.us" tvg-name="TSN 1" tvg-logo="https://logo.iptveditor.com/tsn1.png" group-title="Sports HD", TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099209
+#EXTINF: -1 tvg-id="tsn.us" tvg-name="TSN 2" tvg-logo="https://logo.iptveditor.com/tsn2.png" group-title="Sports HD", TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099210
+#EXTINF: -1 tvg-id="tsn.us" tvg-name="TSN 3" tvg-logo="https://logo.iptveditor.com/tsn3.png" group-title="Sports HD", TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099211
+#EXTINF: -1 tvg-id="tsn.us" tvg-name="TSN 4" tvg-logo="https://logo.iptveditor.com/tsn4.png" group-title="Sports HD", TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099212
+#EXTINF: -1 tvg-id="tsn.us" tvg-name="TSN 5" tvg-logo="https://logo.iptveditor.com/tsn5.png" group-title="Sports HD", TSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099213
+#EXTINF: -1 tvg-name="ARENA PREMIUM 1" tvg-logo="https://logo.iptveditor.com/arena1premiumrs.png" group-title="Sports HD", ARENA PREMIUM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099214
+#EXTINF: -1 tvg-name="ARENA PREMIUM 2" tvg-logo="https://logo.iptveditor.com/arena2premiumrs.png" group-title="Sports HD", ARENA PREMIUM 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099215
+#EXTINF: -1 tvg-name="ARENA PREMIUM 3" tvg-logo="https://logo.iptveditor.com/arena3premiumrs.png" group-title="Sports HD", ARENA PREMIUM 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099216
+#EXTINF: -1 tvg-name="ARENA SPORT 1" tvg-logo="https://logo.iptveditor.com/arenasport1.png" group-title="Sports HD", ARENA SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099217
+#EXTINF: -1 tvg-name="ARENA SPORT 2" tvg-logo="https://logo.iptveditor.com/arenasport2.png" group-title="Sports HD", ARENA SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099218
+#EXTINF: -1 tvg-name="ARENA SPORT 3" tvg-logo="https://logo.iptveditor.com/arenasport3.png" group-title="Sports HD", ARENA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099219
+#EXTINF: -1 tvg-id="premiersports.uk" tvg-name="PREMIER SPORTS 1" tvg-logo="https://logo.iptveditor.com/premiersports1.png" group-title="Sports HD", PREMIER SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099220
+#EXTINF: -1 tvg-id="premiersports2.uk" tvg-name="PREMIER SPORTS 2" tvg-logo="https://logo.iptveditor.com/premiersports2.png" group-title="Sports HD", PREMIER SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099221
+#EXTINF: -1 tvg-name="SPORT KLUB HD" tvg-logo="https://logo.iptveditor.com/exyusportklub1.png" group-title="Sports HD", SPORT KLUB HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099222
+#EXTINF: -1 tvg-name="SPORT KLUB 1" tvg-logo="https://logo.iptveditor.com/sportklub1.png" group-title="Sports HD", SPORT KLUB 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099223
+#EXTINF: -1 tvg-name="SPORT KLUB 2" tvg-logo="https://logo.iptveditor.com/sportklub2.png" group-title="Sports HD", SPORT KLUB 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099224
+#EXTINF: -1 tvg-name="SPORT KLUB 3" tvg-logo="https://logo.iptveditor.com/sportklub3.png" group-title="Sports HD", SPORT KLUB 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099225
+#EXTINF: -1 tvg-name="SPORT KLUB 4" tvg-logo="https://logo.iptveditor.com/sportklub4.png" group-title="Sports HD", SPORT KLUB 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099226
+#EXTINF: -1 tvg-name="ZIGGO SPORT SELECT" tvg-logo="https://logo.iptveditor.com/ziggosportselect.png" group-title="Sports HD", ZIGGO SPORT SELECT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099227
+#EXTINF: -1 tvg-name="ZIGGO SPORT VOETBAL" tvg-logo="https://logo.iptveditor.com/ziggosportvoetbal.png" group-title="Sports HD", ZIGGO SPORT VOETBAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099228
+#EXTINF: -1 tvg-name="ZIGGO SPORT GOLF" tvg-logo="https://logo.iptveditor.com/ziggosportgolf.png" group-title="Sports HD", ZIGGO SPORT GOLF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099229
+#EXTINF: -1 tvg-name="ZIGGO SPORT RACING" tvg-logo="https://logo.iptveditor.com/ziggosportracing.png" group-title="Sports HD", ZIGGO SPORT RACING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099230
+#EXTINF: -1 tvg-name="ZIGGO SPORT DOCU" tvg-logo="https://logo.iptveditor.com/ziggosportdocu.png" group-title="Sports HD", ZIGGO SPORT DOCU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099231
+#EXTINF: -1 tvg-name="MATCH SPORT" tvg-logo="https://logo.iptveditor.com/matchnashsport.png" group-title="Sports HD", MATCH SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099232
+#EXTINF: -1 tvg-name="MATCH FUTBOL 1" tvg-logo="https://logo.iptveditor.com/matchfutbol1.png" group-title="Sports HD", MATCH FUTBOL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099233
+#EXTINF: -1 tvg-name="MATCH FUTBOL 2" tvg-logo="https://logo.iptveditor.com/matchfutbol2.png" group-title="Sports HD", MATCH FUTBOL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099234
+#EXTINF: -1 tvg-name="MATCH FUTBOL 3" tvg-logo="https://logo.iptveditor.com/matchfutbol3.png" group-title="Sports HD", MATCH FUTBOL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099235
+#EXTINF: -1 tvg-id="rmcsport1.fr" tvg-name="RMC SPORT 1" tvg-logo="https://logo.iptveditor.com/rmcsport1.png" group-title="Sports HD", RMC SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099236
+#EXTINF: -1 tvg-id="rmcsport2.fr" tvg-name="RMC SPORT 2" tvg-logo="https://logo.iptveditor.com/rmcsport2.png" group-title="Sports HD", RMC SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099237
+#EXTINF: -1 tvg-id="tennischannel.us" tvg-name="TENNIS CHANNEL HD" tvg-logo="https://logo.iptveditor.com/tennischannel.png" group-title="Sports HD", TENNIS CHANNEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099238
+#EXTINF: -1 tvg-id="tnt.us" tvg-name="TNT HD" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="Sports HD", TNT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099239
+#EXTINF: -1 tvg-name="NOVA SPORT" tvg-logo="https://logo.iptveditor.com/novasport.png" group-title="Sports HD", NOVA SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099240
+#EXTINF: -1 tvg-name="SPORTV 1" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Sports HD", SPORTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099241
+#EXTINF: -1 tvg-name="SPORTV 2" tvg-logo="https://logo.iptveditor.com/sportv2.png" group-title="Sports HD", SPORTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099242
+#EXTINF: -1 tvg-name="SPORTV 3" tvg-logo="https://logo.iptveditor.com/sportv3.png" group-title="Sports HD", SPORTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099243
+#EXTINF: -1 tvg-id="mlbnetwork.us" tvg-name="MLB NETWORK" tvg-logo="https://logo.iptveditor.com/mlbnetwork.png" group-title="Sports HD", MLB NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099244
+#EXTINF: -1 tvg-id="nbatv.us" tvg-name="NBA TV US" tvg-logo="https://logo.iptveditor.com/nbatv.png" group-title="Sports HD", NBA TV US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099245
+#EXTINF: -1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="https://logo.iptveditor.com/nflnetwork.png" group-title="Sports HD", NFL NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099246
+#EXTINF: -1 tvg-id="wwenetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://logo.iptveditor.com/wwenetwork.png" group-title="Sports HD", WWE NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099247
+#EXTINF: -1 tvg-name="UFC FIGHT PASS" tvg-logo="https://logo.iptveditor.com/ufcfightpass.png" group-title="Sports HD", UFC FIGHT PASS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099248
+#EXTINF: -1 tvg-id="realmadridtv.es" tvg-name="REAL MADRID TV" tvg-logo="https://logo.iptveditor.com/realmadridtv.png" group-title="Sports HD", REAL MADRID TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099249
+#EXTINF: -1 tvg-id="mutv.uk" tvg-name="MUTV" tvg-logo="https://logo.iptveditor.com/mutv.png" group-title="Sports HD", MUTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099250
+#EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 1" tvg-logo="https://logo.iptveditor.com/beinsports.png" group-title="beIN Sports", beIN Sports English 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099251
+#EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 2" tvg-logo="https://logo.iptveditor.com/aubeinsports2.png" group-title="beIN Sports", beIN Sports English 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099252
+#EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 3" tvg-logo="https://logo.iptveditor.com/aubeinsports3.png" group-title="beIN Sports", beIN Sports English 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099253
+#EXTINF: -1 tvg-name="beIN Sports Premium 1" tvg-logo="https://logo.iptveditor.com/beinsports1premiummea.png" group-title="beIN Sports", beIN Sports Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099254
+#EXTINF: -1 tvg-name="beIN Sports Premium 2" tvg-logo="https://logo.iptveditor.com/beinsports2premiummea.png" group-title="beIN Sports", beIN Sports Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099255
+#EXTINF: -1 tvg-name="beIN Sports Premium 3" tvg-logo="https://logo.iptveditor.com/beinsports3premiummea.png" group-title="beIN Sports", beIN Sports Premium 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099256
+#EXTINF: -1 tvg-name="beIN Sports 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="beIN Sports", beIN Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099257
+#EXTINF: -1 tvg-name="beIN Sports 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="beIN Sports", beIN Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099258
+#EXTINF: -1 tvg-name="beIN Sports 3" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="beIN Sports", beIN Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099259
+#EXTINF: -1 tvg-name="beIN Sports 4" tvg-logo="https://logo.iptveditor.com/beinsports4.png" group-title="beIN Sports", beIN Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099260
+#EXTINF: -1 tvg-name="beIN Sports 5" tvg-logo="https://logo.iptveditor.com/beinsports5.png" group-title="beIN Sports", beIN Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099261
+#EXTINF: -1 tvg-name="beIN Sports 6" tvg-logo="https://logo.iptveditor.com/beinsports6.png" group-title="beIN Sports", beIN Sports 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099262
+#EXTINF: -1 tvg-name="beIN Sports 7" tvg-logo="https://logo.iptveditor.com/beinsports7.png" group-title="beIN Sports", beIN Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099263
+#EXTINF: -1 tvg-id="beinsports1.fr" tvg-name="beIN Sports France 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="beIN Sports", beIN Sports France 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099264
+#EXTINF: -1 tvg-id="beinsports2.fr" tvg-name="beIN Sports France 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="beIN Sports", beIN Sports France 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099265
+#EXTINF: -1 tvg-id="beinsports3.fr" tvg-name="beIN Sports France 3" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="beIN Sports", beIN Sports France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099266
+#EXTINF: -1 tvg-id="beinsport1.tr" tvg-name="beIN Sports Turkiye 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="beIN Sports", beIN Sports Turkiye 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099267
+#EXTINF: -1 tvg-id="beinsport2.tr" tvg-name="beIN Sports Turkiye 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="beIN Sports", beIN Sports Turkiye 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099268
+#EXTINF: -1 tvg-id="beinsport3.tr" tvg-name="beIN Sports Turkiye 3" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="beIN Sports", beIN Sports Turkiye 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099269
+#EXTINF: -1 tvg-id="beinsport4.tr" tvg-name="beIN Sports Turkiye 4" tvg-logo="https://logo.iptveditor.com/beinsports4.png" group-title="beIN Sports", beIN Sports Turkiye 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099270
+#EXTINF: -1 tvg-name="Abu Dhabi Sports 1" tvg-logo="https://logo.iptveditor.com/abudhabisports1.png" group-title="Sports", Abu Dhabi Sports 1
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880718
+#EXTINF: -1 tvg-name="Abu Dhabi Sports 2" tvg-logo="https://logo.iptveditor.com/abudhabisports2.png" group-title="Sports", Abu Dhabi Sports 2
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880719
+#EXTINF: -1 tvg-name="Abu Dhabi Sports 3" tvg-logo="https://logo.iptveditor.com/abudhabisports3en.png" group-title="Sports", Abu Dhabi Sports 3
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880720
+#EXTINF: -1 tvg-name="Abu Dhabi Sports 4" tvg-logo="https://logo.iptveditor.com/abudhabisports4.png" group-title="Sports", Abu Dhabi Sports 4
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880721
+#EXTINF: -1 tvg-name="Bein Sports Thailand 1" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="Sports", Bein Sports Thailand 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880722
+#EXTINF: -1 tvg-name="Bein Sports Thailand 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="Sports", Bein Sports Thailand 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880723
+#EXTINF: -1 tvg-name="Champions TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Champions_TV_1_HD_%282021%29.png" group-title="Sports", Champions TV 1
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880724
+#EXTINF: -1 tvg-name="Champions TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png" group-title="Sports", Champions TV 2
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880725
+#EXTINF: -1 tvg-name="Champions TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png" group-title="Sports", Champions TV 3
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880726
+#EXTINF: -1 tvg-name="UsseSport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="Sports", UsseSport 1
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880727
+#EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="Sports", UsseSport 2
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880728
+#EXTINF: -1 tvg-name="Dubai Sports" tvg-logo="https://logo.iptveditor.com/dubaisports1.png" group-title="Sports", Dubai Sports
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880729
+#EXTINF: -1 tvg-name="Dubai Sports 2" tvg-logo="https://logo.iptveditor.com/dubaisports1.png" group-title="Sports", Dubai Sports 2
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880730
+#EXTINF: -1 tvg-name="Dubai Sports 3" tvg-logo="https://1.bp.blogspot.com/-50YNNnj_RYY/XTHCCOTHTBI/AAAAAAAAD-k/0h06tboZGtA1WWX7vR1uSIs7iuRdd1g2gCEwYBhgL/s1600/2019-07-18_112231.png" group-title="Sports", Dubai Sports 3
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880731
+#EXTINF: -1 tvg-name="Fox Sport 1 Mexico" tvg-logo="https://logo.iptveditor.com/foxsport1.png" group-title="Sports", Fox Sport 1 Mexico
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880732
+#EXTINF: -1 tvg-name="Fox Sport 2 Mexico" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="Sports", Fox Sport 2 Mexico
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880733
+#EXTINF: -1 tvg-name="Fox Sport 3 Mexico" tvg-logo="https://logo.iptveditor.com/foxsport3.png" group-title="Sports", Fox Sport 3 Mexico
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880734
+#EXTINF: -1 tvg-name="Horison Sports" tvg-logo="https://logo.iptveditor.com/horizonsports.png" group-title="Sports", Horison Sports
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880735
+#EXTINF: -1 tvg-name="MUTV" tvg-logo="https://logo.iptveditor.com/mutv.png" group-title="Sports", MUTV
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880736
+#EXTINF: -1 tvg-name="True Premier HD 1" tvg-logo="http://thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Sports", True Premier HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880737
+#EXTINF: -1 tvg-name="True Premier HD 2" tvg-logo="http://thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="Sports", True Premier HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880738
+#EXTINF: -1 tvg-name="True Premier HD 3" tvg-logo="http://thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="Sports", True Premier HD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880739
+#EXTINF: -1 tvg-name="True Premier HD 4" tvg-logo="http://thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="Sports", True Premier HD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880740
+#EXTINF: -1 tvg-name="True Premier HD 5" tvg-logo="http://thedesignpartnership.co.uk/logos/sport/truepremier5.png" group-title="Sports", True Premier HD 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880741
+#EXTINF: -1 tvg-name="True Sport 1 HD" tvg-logo="https://logo.iptveditor.com/truesport1.png" group-title="Sports", True Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880742
+#EXTINF: -1 tvg-name="True Sport 2 HD" tvg-logo="https://logo.iptveditor.com/truesport2.png" group-title="Sports", True Sport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880743
+#EXTINF: -1 tvg-name="True Sport 3 HD" tvg-logo="https://logo.iptveditor.com/truesport3.png" group-title="Sports", True Sport 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880744
+#EXTINF: -1 tvg-name="True Sport 4 HD" tvg-logo="https://logo.iptveditor.com/truesport4.png" group-title="Sports", True Sport 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880745
+#EXTINF: -1 tvg-name="True Sport 5 HD" tvg-logo="https://logo.iptveditor.com/truesport5.png" group-title="Sports", True Sport 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880746
+#EXTINF: -1 tvg-name="TVRI Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="Sports", TVRI Sport
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880747
+#EXTINF: -1 tvg-name="Unifi Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png" group-title="Sports", Unifi Sports 1
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880748
+#EXTINF: -1 tvg-name="Unifi Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png" group-title="Sports", Unifi Sports 2
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880749
+#EXTINF: -1 tvg-name="WWE Network 2" tvg-logo="https://logo.iptveditor.com/wwenetwork.png" group-title="Sports", WWE Network 2
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880750
+#EXTINF: -1 tvg-name="Ziggo Sport Golf" tvg-logo="https://logo.iptveditor.com/ziggosportgolf.png" group-title="Sports", Ziggo Sport Golf
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880751
+#EXTINF: -1 tvg-name="Ziggo Sport Select" tvg-logo="https://logo.iptveditor.com/ziggosportselect.png" group-title="Sports", Ziggo Sport Select
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880752
+#EXTINF: -1 tvg-name="Ziggo Sport Voetbal" tvg-logo="https://logo.iptveditor.com/ziggosportvoetbal.png" group-title="Sports", Ziggo Sport Voetbal
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880753
+#EXTINF: -1 tvg-name="RMC Sport 1" tvg-logo="https://logo.iptveditor.com/rmcsport1.png" group-title="Sports", RMC Sport 1
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880754
+#EXTINF: -1 tvg-name="RMC Sport 2" tvg-logo="https://logo.iptveditor.com/rmcsport2.png" group-title="Sports", RMC Sport 2
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880755
+#EXTINF: -1 tvg-name="RMC Sport 3" tvg-logo="https://logo.iptveditor.com/rmcsport3.png" group-title="Sports", RMC Sport 3
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880756
+#EXTINF: -1 tvg-name="RMC Sport 4" tvg-logo="https://logo.iptveditor.com/rmcsport4.png" group-title="Sports", RMC Sport 4
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880757
+#EXTINF: -1 tvg-name="Eleven Sports 1 HD" tvg-logo="https://logo.iptveditor.com/elevensport1.png" group-title="Sports", Eleven Sports 1 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880758
+#EXTINF: -1 tvg-name="Eleven Sports 2 HD" tvg-logo="https://logo.iptveditor.com/elevensport2.png" group-title="Sports", Eleven Sports 2 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880759
+#EXTINF: -1 tvg-name="Eleven Sports 3 HD" tvg-logo="https://logo.iptveditor.com/elevensport3.png" group-title="Sports", Eleven Sports 3 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880760
+#EXTINF: -1 tvg-id="canalfoot.fr" tvg-name="Canal + Foot" tvg-logo="https://logo.iptveditor.com/+defoot.png" group-title="Sports", Canal + Foot
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880761
+#EXTINF: -1 tvg-id="beinsports1.fr" tvg-name="Bein Sports 1 France" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="Sports", Bein Sports 1 France
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880762
+#EXTINF: -1 tvg-id="beinsports2.fr" tvg-name="Bein Sports 2 France" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="Sports", Bein Sports 2 France
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880763
+#EXTINF: -1 tvg-id="beinsports3.fr" tvg-name="Bein Sports 3 France" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="Sports", Bein Sports 3 France
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880764
+#EXTINF: -1 tvg-name="Canal+ Sport" tvg-logo="https://logo.iptveditor.com/canalsport.png" group-title="Sports", Canal+ Sport
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880765
+#EXTINF: -1 tvg-name="Canal+ Sport 2" tvg-logo="https://logo.iptveditor.com/canal+sport2.png" group-title="Sports", Canal+ Sport 2
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880766
+#EXTINF: -1 tvg-name="Canal+ Sport 3" tvg-logo="https://logo.iptveditor.com/canal+sport3.png" group-title="Sports", Canal+ Sport 3
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880767
+#EXTINF: -1 tvg-name="Canal+ Sport 4" tvg-logo="https://logo.iptveditor.com/canal+sport4.png" group-title="Sports", Canal+ Sport 4
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880768
+#EXTINF: -1 tvg-name="ZIGGO 1 Select HD" tvg-logo="https://logo.iptveditor.com/ziggosportselecthevc.png" group-title="Sports", ZIGGO 1 Select HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880769
+#EXTINF: -1 tvg-name="ZIGGO Extra 1" tvg-logo="https://logo.iptveditor.com/ziggosportextra1.png" group-title="Sports", ZIGGO Extra 1
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880770
+#EXTINF: -1 tvg-name="ZIGGO Extra 2" tvg-logo="https://logo.iptveditor.com/ziggosportextra2.png" group-title="Sports", ZIGGO Extra 2
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880771
+#EXTINF: -1 tvg-name="ZIGGO Extra HD" tvg-logo="https://logo.iptveditor.com/ziggosportextra.png" group-title="Sports", ZIGGO Extra HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880772
+#EXTINF: -1 tvg-name="ZIGGO Sports" tvg-logo="https://logo.iptveditor.com/ziggosport.png" group-title="Sports", ZIGGO Sports
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880773
+#EXTINF: -1 tvg-name="ZIGGO VEOTBAL" tvg-logo="https://logo.iptveditor.com/ziggosportvoetbal.png" group-title="Sports", ZIGGO VEOTBAL
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880774
+#EXTINF: -1 tvg-name="ZIGGO Voetbal HD" tvg-logo="https://logo.iptveditor.com/ziggosportvoetbal1.png" group-title="Sports", ZIGGO Voetbal HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880775
+#EXTINF: -1 tvg-name="Diema Sport HD" tvg-logo="https://logo.iptveditor.com/diemasport.png" group-title="Sports", Diema Sport HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880776
+#EXTINF: -1 tvg-name="Diema Sport 1 HD" tvg-logo="https://logo.iptveditor.com/diemasport2.png" group-title="Sports", Diema Sport 1 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880777
+#EXTINF: -1 tvg-name="Diema Sport 2 HD" tvg-logo="https://logo.iptveditor.com/diemasport3.png" group-title="Sports", Diema Sport 2 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880778
+#EXTINF: -1 tvg-name="Digi Sport 1 HD" tvg-logo="https://logo.iptveditor.com/digisport1.png" group-title="Sports", Digi Sport 1 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880779
+#EXTINF: -1 tvg-name="Digi Sport 2 HD" tvg-logo="https://logo.iptveditor.com/digisport2.png" group-title="Sports", Digi Sport 2 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880780
+#EXTINF: -1 tvg-name="Digi Sport 3 HD" tvg-logo="https://logo.iptveditor.com/digisport3.png" group-title="Sports", Digi Sport 3 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880781
+#EXTINF: -1 tvg-name="Digi Sport 4 HD" tvg-logo="https://logo.iptveditor.com/digisport4.png" group-title="Sports", Digi Sport 4 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880782
+#EXTINF: -1 tvg-name="Arena Sport 1 HD" tvg-logo="https://logo.iptveditor.com/arenasport1.png" group-title="Sports", Arena Sport 1 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880783
+#EXTINF: -1 tvg-name="Arena Sport 2 HD" tvg-logo="https://logo.iptveditor.com/arenasport2.png" group-title="Sports", Arena Sport 2 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880784
+#EXTINF: -1 tvg-name="Arena Sport 3 HD" tvg-logo="https://logo.iptveditor.com/arenasport3.png" group-title="Sports", Arena Sport 3 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880785
+#EXTINF: -1 tvg-name="Arena Sport 4 HD" tvg-logo="https://logo.iptveditor.com/arenasport4.png" group-title="Sports", Arena Sport 4 HD
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880786
