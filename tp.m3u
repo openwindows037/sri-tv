@@ -1,21 +1,19 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-
 ============================================= LIVE EVENT =============================================
 =====================================================================================================
 #EXTINF:0 tvg-logo="https://www.vhv.rs/file/max/21/213054_live-png.png" group-title="Live Event",Aston Villa VS Crystal Pallace
-https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
+
 
 #EXTINF:0 tvg-logo="https://www.vhv.rs/file/max/21/213054_live-png.png" group-title="Live Event",MU VS BHA
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
+
 
 #EXTINF:0 tvg-logo="https://www.vhv.rs/file/max/21/213054_live-png.png" group-title="Live Event",Tottenham VS Sheefield
-https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8
+
 
 #EXTINF:0 tvg-logo="https://www.vhv.rs/file/max/21/213054_live-png.png" group-title="Live Event",WHU VS MCI
-https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8
+
 
 #EXTINF:0 tvg-logo="https://www.vhv.rs/file/max/21/213054_live-png.png" group-title="Live Event",SC Freiburg VS B.Dortmun
-https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8
+
 
 ============================================= LOCAL =============================================
 =====================================================================================================
@@ -243,62 +241,29 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 
 ========================================================= MOVIES =======================================================================
 ==========================================================================================================================================
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Movies",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="Movies",HBO Signature
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="Movies",HBO Hits
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kurang-kerjaan.openwindows037.workers.dev/
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="Movies",HBO Family 
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="Movies",HBO Andro 6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.fun/api/max?ch=HBO&pw=ngopilah
+#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="Movies",HBO Signature Andro 6
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="Movies",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.fun/api/max?ch=hbosig&pw=ngopilah
+#KODIPROP:inputstream.adaptive.license_key=https://hbosig-max.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="Movies",HBO Hits Andro 6
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="Movies",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.fun/api/max?ch=hbohits&pw=ngopilah
+#KODIPROP:inputstream.adaptive.license_key=https://hbohits-max.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="Movies",HBO Family Andro 6
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="Movies",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.fun/api/max?ch=hbofam&pw=ngopilah
+#KODIPROP:inputstream.adaptive.license_key=https://hbofam-max.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="Movies",Cinemax Andro 6
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="Movies",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ariev.fun/api/max?ch=cinemax&pw=ngopilah
+#KODIPROP:inputstream.adaptive.license_key=https://cinemax.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="Movies",TVN Movies Indonesia
