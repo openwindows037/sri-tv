@@ -1,0 +1,6 @@
+{
+    "versionCode": 35,
+    "versionName": "v2",
+    "changelog": ["Sriwijaya TV as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
+    "downloadUrl": "https://github.com/hariimurti/NontonTV/releases/download/v2.4/net.harimurti.tv_v2.4_b540.apk"
+}
